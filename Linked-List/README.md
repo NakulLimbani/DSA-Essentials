@@ -7,4 +7,5 @@ This folder contains implementations and examples of linked list data structures
 - Singly Linked List
 - Doubly Linked List
 - Circular Linked List
+- Cursor Linked List
 - Operations (insertion, deletion, searching, traversal)
